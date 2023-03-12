@@ -4,9 +4,9 @@ This Hangman game was developed using Python.
 
 ## Steps
 
-1. Import random module to randomly select a word from the word\*list.
+1. Import random module to randomly select a word from the word_list.
 2. Import stages and logo from hangman_art module to display the stages of the hangman game and logo respectively.
-3. Create a display list with underscores "\*" for each letter in the randomly selected word.
+3. Create a display list with underscores "\_" for each letter in the randomly selected word.
 4. Run a while loop that continues until the game ends.
 5. In each iteration, ask the user to guess a letter and convert it to lowercase.
 6. Check if the letter has already been guessed, if yes, then display a message stating so.
@@ -15,7 +15,7 @@ This Hangman game was developed using Python.
 9. Display the display list with guessed letters and underscores.
 10. If all the letters have been guessed correctly, then the game is over and the player wins.
 
-## Features of Python used in this code:
+## Features of Python used in this code
 
 - Variables and data types
 - Loops and conditions
