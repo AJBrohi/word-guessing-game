@@ -2,6 +2,9 @@
 
 This Hangman game was developed using Python.
 
+![Hangman Game in Python](https://user-images.githubusercontent.com/29802859/224564979-a3412318-2137-4dbc-83bc-da6cd8f63df8.gif)
+
+
 ## Steps
 
 1. Import random module to randomly select a word from the word_list.
